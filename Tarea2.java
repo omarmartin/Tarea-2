@@ -5,5 +5,6 @@ public class Tarea2 {
 		System.out.println("Hola mundo, por Omar Martín");
 		System.out.println("Hola mundo, por Benjamin anguiano");
 		System.out.println("Hola mundo, por Adrian Calzada");
+		System.out.println("Hola mundo, por Santiago Sáinz");
 	}
 }
